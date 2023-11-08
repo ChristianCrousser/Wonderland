@@ -120,6 +120,10 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+<<<<<<< HEAD
+=======
+--- !u!1 &252218045
+>>>>>>> parent of c580f98 (added cube)
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -127,10 +131,17 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
   - component: {fileID: 1972315750}
   - component: {fileID: 1972315749}
   - component: {fileID: 1972315748}
   m_Layer: 0
+=======
+  - component: {fileID: 252218048}
+  - component: {fileID: 252218047}
+  - component: {fileID: 252218046}
+  m_Layer: 6
+>>>>>>> parent of c580f98 (added cube)
   m_Name: Terrain
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -215,4 +226,14 @@ Transform:
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
+<<<<<<< HEAD
   m_Roots:
+=======
+  m_Roots:
+  - {fileID: 705507995}
+  - {fileID: 252218048}
+  - {fileID: 1055884550}
+  - {fileID: 531204317}
+  - {fileID: 1287690882}
+
+>>>>>>> parent of c580f98 (added cube)
